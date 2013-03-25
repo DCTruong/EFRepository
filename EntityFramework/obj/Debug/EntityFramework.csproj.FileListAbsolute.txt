@@ -1,0 +1,16 @@
+D:\Users\dung.nguyenthi\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\EntityFramework.dll
+D:\Users\dung.nguyenthi\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\Users\dung.nguyenthi\Documents\GitHub\DungTruongRepository\EntityFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\dung.nguyenthi\Documents\GitHub\DungTruongRepository\EntityFramework\obj\Debug\EntityFramework.dll
+D:\Users\dung.nguyenthi\Documents\GitHub\DungTruongRepository\EntityFramework\obj\Debug\EntityFramework.pdb
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\EntityFramework.dll
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\obj\Debug\EntityFramework.dll
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\obj\Debug\EntityFramework.pdb
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\EntityFramework.dll.config
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\Domain.dll
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\Domain.pdb
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\EntityFramework.xml
+D:\Users\truong.duong\Documents\GitHub\DungTruongRepository\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
